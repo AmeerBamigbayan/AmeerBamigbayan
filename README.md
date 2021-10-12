@@ -24,14 +24,10 @@
 
 
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
 
   <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=AmeerBamigbayan&show_icons=true&locale=en&layout=compact" alt="AmeerBamigbayan" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=AmeerBamigbayan&show_icons=true&locale=en" alt="AmeerBamigbayan" /></p>
-
-</details>
 
 [website]: https://ameerbamigbayan.com.ng/
 [twitter]: https://www.twitter.com/ameer_105/
