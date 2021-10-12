@@ -27,7 +27,9 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="Ameer_105's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Ameer_105&show_icons=true&hide_border=true" />
+  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=AmeerBamigbayan&show_icons=true&locale=en&layout=compact" alt="AmeerBamigbayan" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=AmeerBamigbayan&show_icons=true&locale=en" alt="AmeerBamigbayan" /></p>
 
 </details>
 
