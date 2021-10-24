@@ -12,7 +12,7 @@ src="https://img.shields.io/github/followers/AmeerBamigbayan?style=social" alt="
  
 - 🔭 You can check out my website [here](https://ameerbamigbayan.com.ng/)
 - 👨🏾‍💻 See a few of my projects [here](https://ameerbamigbayan.com.ng/projects)
-- 🌱 I’m currently learning everything 🤣
+- 🌱 I’m currently learning everything 🤣 
 - 👯 I’m looking to collaborate with other content creators
 - ⚡ Fun fact: I love to Dance 🕺
 - 🌐 I’m a Nigerian 🇳🇬
