@@ -45,4 +45,4 @@ src="https://img.shields.io/github/followers/AmeerBamigbayan?style=social" alt="
 [dribbble]: https://dribbble.com/AmeerBamigbayan
 [fiverr]: https://www.fiverr.com/ameerdamilola?public_mode=true
 [upwork]: https://www.upwork.com/freelancers/~018e4a266da3c6f995
-[facebook]: https://www.facebook.com/ameer.bamigbayan.1/
+[facebook]: https://www.facebook.com/ameer.bamigbayan.1/ 
