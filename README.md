@@ -16,7 +16,7 @@
 
 [<img align="left" alt="ameerbamigbayan.com.ng" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="Ameer_105 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="ameerbamigbyan | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="ameerbamigbyan | LinkedIn" width="22px" src="https://img.icons8.com/bubbles/50/000000/linkedin.png" />][linkedin]
 [<img align="left" alt="ameerbamigbyan | LinkedIn" width="22px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" />][dribbble]
 [<img align="left" alt="ameerbamigbyan | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/fiverr.svg" />][fiverr]
 [<img align="left" alt="ameerbamigbyan | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/upwork.svg" />][upwork]
