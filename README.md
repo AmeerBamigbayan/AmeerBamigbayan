@@ -36,7 +36,7 @@ src="https://img.shields.io/github/followers/AmeerBamigbayan?style=social" alt="
 
 <h3 align="center">I'm currently vibing to 🎧</h3>
 <p align="center"> <img src="https://spotify-recently-played-readme.vercel.app/api?user=dfnf3b6pfm5cxs5ix9nfyrtep&cover_image=true&theme=compact" height="300px" alt="spotify">
- <img src="https://spotify-recently-played-readme.vercel.app/api?user=n0rm1kq3erv1julqyq7evfmgi" alt="spotify" height="300px"/></p>
+ <img src="https://spotify-recently-played-readme.vercel.app/api?user=dfnf3b6pfm5cxs5ix9nfyrtep" alt="spotify" height="300px"/></p>
 
 
 
