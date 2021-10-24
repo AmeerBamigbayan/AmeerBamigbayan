@@ -23,6 +23,8 @@
 [<img align="left" alt="ameerbamigbyan | Upwork" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/upwork.svg" />][upwork]
 <br />
 
+<p align="center"> <img src=https://github.com/AmeerBamigbayan/AmeerBamigbayan/blob/main/source.gif /> </p>
+
 
 
 
