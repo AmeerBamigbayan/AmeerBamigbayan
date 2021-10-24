@@ -4,6 +4,8 @@
 <p align="center"> <img src="https://github.com/AmeerBamigbayan/AmeerBamigbayan/blob/main/LinkedIn%20Banner.png" /> </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=AmeerBamigbayan&label=Profile%20views&color=0e75b6&style=flat" alt="AmeerBamigbayan" /> </p>
+ <img
+src="https://img.shields.io/github/followers/AmeerBamigbayan?style=social" alt="crazychickendev" />
 
 
 ## I'm a Front-End Developer, UI Designer, and a Graphic Designer.
