@@ -14,13 +14,13 @@
 
 ### Connect with me:
 
-[<img align="left" alt="ameerbamigbayan.com.ng" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="Ameer_105 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="ameerbamigbyan | LinkedIn" width="30px" src="https://img.icons8.com/bubbles/50/000000/linkedin.png" />][linkedin]
-[<img align="left" alt="ameerbamigbyan | facebook" width="22px" src="https://img.icons8.com/bubbles/50/000000/facebook-new.png"  />][facebook]
-[<img align="left" alt="ameerbamigbyan | dribble" width="22px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" />][dribbble]
-[<img align="left" alt="ameerbamigbyan | fiverr" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/fiverr.svg" />][fiverr]
-[<img align="left" alt="ameerbamigbyan | Upwork" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/upwork.svg" />][upwork]
+[<img align="left" alt="ameerbamigbayan.com.ng" width="35px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="Ameer_105 | Twitter" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="ameerbamigbyan | LinkedIn" width="35px" src="https://img.icons8.com/bubbles/50/000000/linkedin.png" />][linkedin]
+[<img align="left" alt="ameerbamigbyan | facebook" width="35px" src="https://img.icons8.com/bubbles/50/000000/facebook-new.png"  />][facebook]
+[<img align="left" alt="ameerbamigbyan | dribble" width="35px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" />][dribbble]
+[<img align="left" alt="ameerbamigbyan | fiverr" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/fiverr.svg" />][fiverr]
+[<img align="left" alt="ameerbamigbyan | Upwork" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/upwork.svg" />][upwork]
 <br />
 
 
