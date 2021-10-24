@@ -33,6 +33,8 @@ src="https://img.shields.io/github/followers/AmeerBamigbayan?style=social" alt="
 
 
 <p align="center" height='130px'> <img src="https://github-readme-stats.vercel.app/api?username=AmeerBamigbayan&show_icons=true&hide_title=true&include_all_commits=true&line_height=21&bg_color=0,ffb400,ffb400,F6C03D,F4DDA6&count_private=true&theme=graywhite" alt="AmeerBamigbayan"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmeerBamigbayan&layout=compact&show_icons=true&bg_color=0,EFE4CA,F4DDA6,F6C03D&theme=graywhite&hide_title=true" alt="AmeerBamigbayan"/> </p>
+
+
 [website]: https://ameerbamigbayan.com.ng/
 [twitter]: https://www.twitter.com/ameer_105/
 [linkedin]: https://www.linkedin.com/in/ameer-bamigbayan-50722b206/
