@@ -1,3 +1,4 @@
+<p align="center"> <img src="https://github.com/AmeerBamigbayan/AmeerBamigbayan/blob/main/LinkedIn%20Banner.png" /> </p>
 ### Hi there, I'm [Ameer Bamigbayan][website] 👋
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=AmeerBamigbayan&label=Profile%20views&color=0e75b6&style=flat" alt="AmeerBamigbayan" /> </p>
