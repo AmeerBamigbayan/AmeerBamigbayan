@@ -8,7 +8,7 @@
 src="https://img.shields.io/github/followers/AmeerBamigbayan?style=social" alt="AmeerBamigbayan" />
 
 
-## I'm a Front-End Developer, UI Designer, and a Graphic Designer.
+## I'm a Front-End Developer, UI/UX Designer, and a Graphic Designer.
  
 - 🔭 You can check out my website [here](https://ameerbamigbayan.com.ng/)
 - 👨🏾‍💻 See a few of my projects [here](https://ameerbamigbayan.com.ng/projects)
