@@ -27,7 +27,7 @@ src="https://img.shields.io/github/followers/AmeerBamigbayan?style=social" alt="
 [<img align="left" alt="ameerbamigbyan | fiverr" width="35px" src="https://img.icons8.com/bubbles/50/000000/fiverr.png" />][fiverr]
 [<img align="left" alt="ameerbamigbyan | Upwork" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/upwork.svg" />][upwork]
 <br />
-
+ 
 <p align="center"> <img src=https://github.com/AmeerBamigbayan/AmeerBamigbayan/blob/main/source.gif /> </p>
 
 
