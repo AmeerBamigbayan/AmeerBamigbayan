@@ -11,7 +11,7 @@ src="https://img.shields.io/github/followers/AmeerBamigbayan?style=social" alt="
 ## I'm a Front-End Developer, UI/UX Designer, and a Graphic Artist.
     
 - 🔭 You can check out my website [here](https://ameerbamigbayan.com.ng/)
-- 👨🏾‍💻 See a few of my projects [here](https://ameerbamigbayan.com.ng/projects)
+- 👨🏾‍💻 See a few of my projects [here](https://www.linkedin.com/in/ameerbamigbayan)
 - 🌱 I’m currently learning everything 🤣 
 - 👯 I’m looking to collaborate with other content creators
 - ⚡ Fun fact: I love to Dance 🕺
