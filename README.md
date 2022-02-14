@@ -6,7 +6,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=AmeerBamigbayan&label=Profile%20views&color=0e75b6&style=flat" alt="AmeerBamigbayan" /> 
  <img
 src="https://img.shields.io/github/followers/AmeerBamigbayan?style=social" alt="AmeerBamigbayan" />
-<img src="https://img.shields.io/github/last-commit/AmeerBamigbayany/AmeerBamigbayan" alt="AmeerBamigbayan" /> <img
+<img
 src="https://img.shields.io/twitter/follow/am33r_105?label=Follow%20me&style=social" alt="am33r_105" /> </p>
  
 
