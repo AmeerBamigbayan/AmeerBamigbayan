@@ -3,9 +3,11 @@
                  
 <p align="center"> <img src="https://github.com/AmeerBamigbayan/AmeerBamigbayan/blob/main/LinkedIn%20Banner.png" /> </p>
  
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=AmeerBamigbayan&label=Profile%20views&color=0e75b6&style=flat" alt="AmeerBamigbayan" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=AmeerBamigbayan&label=Profile%20views&color=0e75b6&style=flat" alt="AmeerBamigbayan" /> 
  <img
 src="https://img.shields.io/github/followers/AmeerBamigbayan?style=social" alt="AmeerBamigbayan" />
+src="https://img.shields.io/github/last-commit/crazychickendev/CrazyChickenDev" alt="crazychickendev" /> <img
+src="https://img.shields.io/twitter/follow/0x00CCSec?label=Follow%20me&style=social" alt="0x00CCSec" /> </p>
  
 
 ## I'm a Front-End Developer, UI/UX Designer, and a Graphic Artist.
