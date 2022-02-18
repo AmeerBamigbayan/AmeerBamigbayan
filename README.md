@@ -29,7 +29,7 @@ src="https://img.shields.io/twitter/follow/am33r_105?label=Follow%20me&style=soc
 [<img align="left" alt="ameerbamigbyan | fiverr" width="35px" src="https://img.icons8.com/bubbles/50/000000/fiverr.png" />][fiverr]
 [<img align="left" alt="ameerbamigbyan | Upwork" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/upwork.svg" />][upwork]
 <br /> 
- 
+ [![trophy](https://github-profile-trophy.vercel.app/?username=AmeerBamigbayan&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 <p align="center"> <img src=https://github.com/AmeerBamigbayan/AmeerBamigbayan/blob/main/source.gif /> </p>
 
    
