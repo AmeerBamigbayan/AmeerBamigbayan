@@ -22,7 +22,7 @@ src="https://img.shields.io/twitter/follow/am33r_105?label=Follow%20me&style=soc
 ### Connect with me:
 
 [<img align="left" alt="ameerbamigbayan.com.ng" width="35px" src="https://img.icons8.com/bubbles/50/000000/globe.png" />][website]
-[<img align="left" alt="Ameer_105 | Twitter" width="35px" src="https://img.icons8.com/bubbles/50/000000/twitter.png" />][twitter]
+[<img align="left" alt="@am33r_105 | Twitter" width="35px" src="https://img.icons8.com/color/344/twitter--v1.png" />][twitter]
 [<img align="left" alt="ameerbamigbyan | LinkedIn" width="35px" src="https://img.icons8.com/bubbles/50/000000/linkedin.png" />][linkedin]
 [<img align="left" alt="ameerbamigbyan | facebook" width="35px" src="https://img.icons8.com/bubbles/50/000000/facebook-new.png"  />][facebook]
 [<img align="left" alt="ameerbamigbyan | dribble" width="35px" src="https://img.icons8.com/bubbles/50/000000/dribbble.png" />][dribbble]
