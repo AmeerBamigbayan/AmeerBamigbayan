@@ -21,16 +21,17 @@ src="https://img.shields.io/twitter/follow/am33r_105?label=Follow%20me&style=soc
 
 ### Connect with me:
 
-[<img align="left" alt="ameerbamigbayan.com.ng" width="35px" src="https://img.icons8.com/bubbles/50/000000/globe.png" />][website]
+[<img align="left" alt="ameerbamigbayan.com.ng" width="35px" src="https://img.icons8.com/ios-filled/344/domain.png" />][website]
 [<img align="left" alt="@am33r_105 | Twitter" width="35px" src="https://img.icons8.com/color/344/twitter--v1.png" />][twitter]
-[<img align="left" alt="ameerbamigbyan | LinkedIn" width="35px" src="https://img.icons8.com/bubbles/50/000000/linkedin.png" />][linkedin]
-[<img align="left" alt="ameerbamigbyan | facebook" width="35px" src="https://img.icons8.com/bubbles/50/000000/facebook-new.png"  />][facebook]
-[<img align="left" alt="ameerbamigbyan | dribble" width="35px" src="https://img.icons8.com/bubbles/50/000000/dribbble.png" />][dribbble]
-[<img align="left" alt="ameerbamigbyan | fiverr" width="35px" src="https://img.icons8.com/bubbles/50/000000/fiverr.png" />][fiverr]
-[<img align="left" alt="ameerbamigbyan | Upwork" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/upwork.svg" />][upwork]
+[<img align="left" alt="ameerbamigbyan | LinkedIn" width="35px" src=" https://img.icons8.com/color/344/linkedin-circled--v1.png" />][linkedin]
+[<img align="left" alt="ameerbamigbyan | facebook" width="35px" src="https://img.icons8.com/fluency/344/facebook-new.png"  />][facebook]
+[<img align="left" alt="ameerbamigbyan | dribble" width="35px" src="https://img.icons8.com/fluency/344/dribbble.png" />][dribbble]
+[<img align="left" alt="ameerbamigbyan | fiverr" width="35px" src="https://img.icons8.com/color/344/fiverr.png" />][fiverr]
+[<img align="left" alt="ameerbamigbyan | Upwork" width="35px" src="https://user-images.githubusercontent.com/76779409/172018227-ba03231d-3b20-4dc3-a8ba-16680c127d16.png" />][upwork]
 <br /> 
  [![trophy](https://github-profile-trophy.vercel.app/?username=AmeerBamigbayan&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 <p align="center"> <img src=https://user-images.githubusercontent.com/76779409/170862828-81861544-0bf3-4780-9c5b-b3f309c88998.gif /> </p>
+
 
 
 
