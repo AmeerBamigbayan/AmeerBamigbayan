@@ -30,6 +30,8 @@ src="https://img.shields.io/twitter/follow/am33r_105?label=Follow%20me&style=soc
 [<img align="left" alt="ameerbamigbyan | Upwork" width="35px" src="https://user-images.githubusercontent.com/76779409/172018227-ba03231d-3b20-4dc3-a8ba-16680c127d16.png" />][upwork]
 <br /> 
 <br>
+<br>
+<br>
  [![trophy](https://github-profile-trophy.vercel.app/?username=AmeerBamigbayan&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 <p align="center"> <img src=https://user-images.githubusercontent.com/76779409/170862828-81861544-0bf3-4780-9c5b-b3f309c88998.gif /> </p>
 
