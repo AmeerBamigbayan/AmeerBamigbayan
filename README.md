@@ -51,7 +51,7 @@ src="https://img.shields.io/twitter/follow/am33r_105?label=Follow%20me&style=soc
 
 
 [website]: https://ameerbamigbayan.com.ng/
-[twitter]: https://www.twitter.com/am33r_105/
+[twitter]: https://www.twitter.com/am33r_105/ 
 [linkedin]: https://www.linkedin.com/in/ameerbamigbayan
 [dribbble]: https://dribbble.com/AmeerBamigbayan
 [fiverr]: https://www.fiverr.com/ameerdamilola?public_mode=true
