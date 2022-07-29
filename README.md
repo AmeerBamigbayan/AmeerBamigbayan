@@ -19,7 +19,7 @@ src="https://img.shields.io/twitter/follow/am33r_105?label=Follow%20me&style=soc
 - ⚡ Fun fact: I love to Dance 🕺
 - 🌐 I’m a Nigerian 🇳🇬
 
-### Connect with me:
+### Connect with me:  
 
 [<img align="left" alt="ameerbamigbayan.com.ng" width="35px" src="https://cdn-icons-png.flaticon.com/512/841/841364.png" />][website]
 [<img align="left" alt="@am33r_105 | Twitter" width="35px" src="https://img.icons8.com/color/344/twitter--v1.png" />][twitter]
