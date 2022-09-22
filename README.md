@@ -1,5 +1,5 @@
 ### Hi there, I'm [Ameer Bamigbayan][website] 👋        
-                                 
+                                   
                     
 <p align="center"> <img src="https://github.com/AmeerBamigbayan/AmeerBamigbayan/blob/main/LinkedIn%20Banner.png" />  </p>
  
