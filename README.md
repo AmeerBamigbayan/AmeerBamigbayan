@@ -13,7 +13,7 @@ src="https://img.shields.io/twitter/follow/am33r_105?label=Follow%20me&style=soc
 ## I'm a Front-End Developer, UI/UX Designer, and a Graphic Artist.  
     
 - 🔭 You can check out my website [here](https://ameerbamigbayan.com.ng/)
-- 👨🏾‍💻 See a few of my projects [here](https://www.linkedin.com/in/ameerbamigbayan)
+- 👨🏾‍💻 See a few of my projects [here](https://www.linkedin.com/in/ameerbamigbayan)  
 - 🌱 I’m currently learning everything 🤣 
 - 👯 I’m looking to collaborate with other content creators
 - ⚡ Fun fact: I love to Dance 🕺
