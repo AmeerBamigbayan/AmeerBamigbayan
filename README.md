@@ -17,7 +17,7 @@ src="https://img.shields.io/twitter/follow/am33r_105?label=Follow%20me&style=soc
 - 🌱 I’m currently learning everything 🤣 
 - 👯 I’m looking to collaborate with other content creators
 - ⚡ Fun fact: I love to Dance 🕺
-- 🌐 I’m a Nigerian 🇳🇬
+- 🌐 I’m a Nigerian 🇳🇬   
   
 ### Connect with me:  
 
