@@ -1,7 +1,8 @@
 ### Hi there, I'm [Ameer Bamigbayan][website] 👋                                   
                                                                                                     
                            
-<p align="center"> <img src="https://github.com/AmeerBamigbayan/AmeerBamigbayan/blob/main/LinkedIn%20Banner.png" />  </p>
+<p align="center"> <img src="https://user-images.githubusercontent.com/76779409/220817041-fb8bb605-b9fe-4e07-bbe5-a09e9bf141b3.png" />
+ </p>
  
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=AmeerBamigbayan&label=Profile%20views&color=0e75b6&style=flat" alt="AmeerBamigbayan" /> 
  <img
