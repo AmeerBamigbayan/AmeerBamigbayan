@@ -1,5 +1,5 @@
 ### Hi there, I'm [Ameer Bamigbayan][website] 👋                                   
-                                                                                                    
+                                                                                                      
                            
 <p align="center"> <img src="https://user-images.githubusercontent.com/76779409/220817041-fb8bb605-b9fe-4e07-bbe5-a09e9bf141b3.png" />
  </p>
