@@ -36,8 +36,8 @@ src="https://img.shields.io/twitter/follow/am33r_105?label=Follow%20me&style=soc
  <!----<p align="center"><img src=https://github-profile-trophy.vercel.app/?username=AmeerBamigbayan&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy width="100%" /></p>---->
 
 <p align="center"> <img src=https://user-images.githubusercontent.com/76779409/170862828-81861544-0bf3-4780-9c5b-b3f309c88998.gif />  </p>
-<p align="center"> <img src=https://i0.wp.com/i.giphy.com/media/zOvBKUUEERdNm/giphy-downsized.gif/>  </p>
-https://i0.wp.com/i.giphy.com/media/zOvBKUUEERdNm/giphy-downsized.gif?w=770&ssl=1
+<p align="center"> <img src=https://i2.wp.com/i.giphy.com/media/26tn33aiTi1jkl6H6/giphy-downsized.gif?w=770&ssl=1  />  </p>
+
 
 
   <p align="center"> <img height='160px' align="left" src="https://github-readme-stats.vercel.app/api?username=AmeerBamigbayan&show_icons=true&hide_title=true&include_all_commits=true&line_height=21&bg_color=0,ffb400,ffb400,F6C03D,F4DDA6&count_private=true&theme=graywhite" alt="AmeerBamigbayan"/><img align="right" height='160px' src="https://github-readme-streak-stats.herokuapp.com/?user=AmeerBamigbayan&theme=dark"/></p>
