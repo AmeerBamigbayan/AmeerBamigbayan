@@ -45,7 +45,7 @@ src="https://img.shields.io/twitter/follow/am33r_105?label=Follow%20me&style=soc
 <br>
  <!---<p height='130px'> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmeerBamigbayan&layout=compact&show_icons=true&bg_color=0,EFE4CA,F4DDA6,F6C03D&theme=graywhite&hide_title=true" alt="AmeerBamigbayan"/> </p>---->
 
-<h3><br><br><br><br></h3>
+<h3><br><br></h3>
 <h3 align="center"><br><br><br><br>My Spotify 👀🎧</h3>
 <p align="center"> <img src="https://spotify-github-profile.vercel.app/api/view?uid=dfnf3b6pfm5cxs5ix9nfyrtep&cover_image=true&theme=default&bar_color_cover=false" alt="spotify" height="320px"/> <img src="https://spotify-recently-played-readme.vercel.app/api?user=dfnf3b6pfm5cxs5ix9nfyrtep" alt="spotify" height="320px"/></p>
 
