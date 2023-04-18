@@ -1,5 +1,5 @@
 ### Hi there, I'm [Ameer Bamigbayan][website] 👋                                   
-        ![ameer](https://user-images.githubusercontent.com/76779409/232928522-7107defa-742b-40c3-aa58-d9ece5f13cff.gif)
+    
 
                            
 <p align="center"> <img src="https://user-images.githubusercontent.com/76779409/220817041-fb8bb605-b9fe-4e07-bbe5-a09e9bf141b3.png" />
@@ -36,7 +36,10 @@ src="https://img.shields.io/twitter/follow/am33r_105?label=Follow%20me&style=soc
 <br>
  <!----<p align="center"><img src=https://github-profile-trophy.vercel.app/?username=AmeerBamigbayan&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy width="100%" /></p>---->
 
-<p align="center"> <img src=[https://cwsl.in/wp-content/uploads/2021/03/website.gif](https://user-images.githubusercontent.com/76779409/232928522-7107defa-742b-40c3-aa58-d9ece5f13cff.gif)  />  </p>
+<p align="center"> <img src=https://user-images.githubusercontent.com/76779409/232928741-d3add354-3c9c-45c5-8407-ecf79445abc2.gif  />  </p>
+
+![ameer](https://user-images.githubusercontent.com/76779409/232928741-d3add354-3c9c-45c5-8407-ecf79445abc2.gif)
+
 
 
 
