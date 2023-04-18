@@ -1,5 +1,5 @@
 ### Hi there, I'm [Ameer Bamigbayan][website] 👋                                   
-                                                                                                      
+        
                            
 <p align="center"> <img src="https://user-images.githubusercontent.com/76779409/220817041-fb8bb605-b9fe-4e07-bbe5-a09e9bf141b3.png" />
  </p>
@@ -46,6 +46,20 @@ src="https://img.shields.io/twitter/follow/am33r_105?label=Follow%20me&style=soc
   <p class="float-child" height='130px'> <img src="https://github-readme-stats.vercel.app/api?username=AmeerBamigbayan&show_icons=true&hide_title=true&include_all_commits=true&line_height=21&bg_color=0,ffb400,ffb400,F6C03D,F4DDA6&count_private=true&theme=graywhite" alt="AmeerBamigbayan"/></p>
 <!----<p align="center" height='130px'><img src="https://github-readme-stats.vercel.app/api/wakatime?username=Ameer_105&layout=compact&theme=solarized-dark&hide_border=true"/> </p>---->
 <p class="float-child" height='130px'><img src="https://github-readme-streak-stats.herokuapp.com/?user=AmeerBamigbayan&theme=dark"/> </p>
+  
+  <style>
+  .float-container {
+    border: 3px solid #fff;
+    padding: 20px;
+}
+
+.float-child {
+    width: 50%;
+    float: left;
+    padding: 20px;
+    border: 2px solid red;
+}  
+</style>
   </div>
  <!---<p height='130px'> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmeerBamigbayan&layout=compact&show_icons=true&bg_color=0,EFE4CA,F4DDA6,F6C03D&theme=graywhite&hide_title=true" alt="AmeerBamigbayan"/> </p>---->
 
@@ -62,16 +76,4 @@ src="https://img.shields.io/twitter/follow/am33r_105?label=Follow%20me&style=soc
 [upwork]: https://www.upwork.com/freelancers/~018e4a266da3c6f995
 [facebook]: https://www.facebook.com/ameer.bamigbayan.1/ 
 
-<style>
-  .float-container {
-    border: 3px solid #fff;
-    padding: 20px;
-}
 
-.float-child {
-    width: 50%;
-    float: left;
-    padding: 20px;
-    border: 2px solid red;
-}  
-</style>
