@@ -43,7 +43,7 @@ src="https://img.shields.io/twitter/follow/am33r_105?label=Follow%20me&style=soc
 
 
 <div style="dislay:flex; ">
-  <p  style="dislay:flex; " align="left" height='130px'> <img src="https://github-readme-stats.vercel.app/api?username=AmeerBamigbayan&show_icons=true&hide_title=true&include_all_commits=true&line_height=21&bg_color=0,ffb400,ffb400,F6C03D,F4DDA6&count_private=true&theme=graywhite" alt="AmeerBamigbayan"/></p>
+  <p  style="dislay:flex; " align="left" height='130px'> <img src="https://github-readme-stats.vercel.app/api?username=AmeerBamigbayan&show_icons=true&hide_title=true&include_all_commits=true&line_height=21&bg_color=0,ffb400,ffb400,F6C03D,F4DDA6&count_private=true&theme=graywhite" alt="AmeerBamigbayan"/><img src="https://github-readme-streak-stats.herokuapp.com/?user=AmeerBamigbayan&theme=dark"/></p>
 <!----<p align="center" height='130px'><img src="https://github-readme-stats.vercel.app/api/wakatime?username=Ameer_105&layout=compact&theme=solarized-dark&hide_border=true"/> </p>---->
 <p  style="dislay:flex; " align="right" height='130px'><img src="https://github-readme-streak-stats.herokuapp.com/?user=AmeerBamigbayan&theme=dark"/> </p>
   
