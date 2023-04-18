@@ -42,7 +42,7 @@ src="https://img.shields.io/twitter/follow/am33r_105?label=Follow%20me&style=soc
   
 
 
-<div display= 'flex'>
+<div class="grid-container>
   <p align="center" height='130px'> <img src="https://github-readme-stats.vercel.app/api?username=AmeerBamigbayan&show_icons=true&hide_title=true&include_all_commits=true&line_height=21&bg_color=0,ffb400,ffb400,F6C03D,F4DDA6&count_private=true&theme=graywhite" alt="AmeerBamigbayan"/></p>
 <!----<p align="center" height='130px'><img src="https://github-readme-stats.vercel.app/api/wakatime?username=Ameer_105&layout=compact&theme=solarized-dark&hide_border=true"/> </p>---->
 <p align="center" height='130px'><img src="https://github-readme-streak-stats.herokuapp.com/?user=AmeerBamigbayan&theme=dark"/> </p>
@@ -61,3 +61,11 @@ src="https://img.shields.io/twitter/follow/am33r_105?label=Follow%20me&style=soc
 [fiverr]: https://www.fiverr.com/ameerdamilola?public_mode=true
 [upwork]: https://www.upwork.com/freelancers/~018e4a266da3c6f995
 [facebook]: https://www.facebook.com/ameer.bamigbayan.1/ 
+
+<style>
+.grid-container {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-gap: 20px;
+}
+</style>
