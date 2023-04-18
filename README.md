@@ -42,14 +42,14 @@ src="https://img.shields.io/twitter/follow/am33r_105?label=Follow%20me&style=soc
   
 
 
-<div class="flex-container">
-  <p class="flex-child" height='130px'> <img src="https://github-readme-stats.vercel.app/api?username=AmeerBamigbayan&show_icons=true&hide_title=true&include_all_commits=true&line_height=21&bg_color=0,ffb400,ffb400,F6C03D,F4DDA6&count_private=true&theme=graywhite" alt="AmeerBamigbayan"/></p>
+<div class="float-container">
+  <p class="float-child" height='130px'> <img src="https://github-readme-stats.vercel.app/api?username=AmeerBamigbayan&show_icons=true&hide_title=true&include_all_commits=true&line_height=21&bg_color=0,ffb400,ffb400,F6C03D,F4DDA6&count_private=true&theme=graywhite" alt="AmeerBamigbayan"/></p>
 <!----<p align="center" height='130px'><img src="https://github-readme-stats.vercel.app/api/wakatime?username=Ameer_105&layout=compact&theme=solarized-dark&hide_border=true"/> </p>---->
-<p class="flex-child" height='130px'><img src="https://github-readme-streak-stats.herokuapp.com/?user=AmeerBamigbayan&theme=dark"/> </p>
+<p class="float-child" height='130px'><img src="https://github-readme-streak-stats.herokuapp.com/?user=AmeerBamigbayan&theme=dark"/> </p>
   </div>
  <!---<p height='130px'> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmeerBamigbayan&layout=compact&show_icons=true&bg_color=0,EFE4CA,F4DDA6,F6C03D&theme=graywhite&hide_title=true" alt="AmeerBamigbayan"/> </p>---->
 
-<h3 align="center">I'm currently vibing to 🎧</h3>
+<h3 align="center">My Spotify 👀🎧</h3>
 <p align="center"> <img src="https://spotify-github-profile.vercel.app/api/view?uid=dfnf3b6pfm5cxs5ix9nfyrtep&cover_image=true&theme=default&bar_color_cover=false" alt="spotify" height="320px"/> <img src="https://spotify-recently-played-readme.vercel.app/api?user=dfnf3b6pfm5cxs5ix9nfyrtep" alt="spotify" height="320px"/></p>
 
 
@@ -63,16 +63,15 @@ src="https://img.shields.io/twitter/follow/am33r_105?label=Follow%20me&style=soc
 [facebook]: https://www.facebook.com/ameer.bamigbayan.1/ 
 
 <style>
-.flex-container {
-    display: flex;
+  .float-container {
+    border: 3px solid #fff;
+    padding: 20px;
 }
 
-.flex-child {
-    flex: 1;
-  
+.float-child {
+    width: 50%;
+    float: left;
+    padding: 20px;
+    border: 2px solid red;
 }  
-
-.flex-child:first-child {
-    margin-right: 20px;
-} 
 </style>
