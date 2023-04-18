@@ -39,12 +39,13 @@ src="https://img.shields.io/twitter/follow/am33r_105?label=Follow%20me&style=soc
 <p align="center"> <img src=https://user-images.githubusercontent.com/76779409/232928741-d3add354-3c9c-45c5-8407-ecf79445abc2.gif  />  </p>
 
 
-  <p align="center"> <img height='160px' align="left" src="https://github-readme-stats.vercel.app/api?username=AmeerBamigbayan&show_icons=true&hide_title=true&include_all_commits=true&line_height=21&bg_color=0,ffb400,ffb400,F6C03D,F4DDA6&count_private=true&theme=graywhite" alt="AmeerBamigbayan"/><img align="right" height='160px' src="https://github-readme-streak-stats.herokuapp.com/?user=AmeerBamigbayan&theme=dark"/></p>
+  <p align="center" > <img height='160px' align="left" src="https://github-readme-stats.vercel.app/api?username=AmeerBamigbayan&show_icons=true&hide_title=true&include_all_commits=true&line_height=21&bg_color=0,ffb400,ffb400,F6C03D,F4DDA6&count_private=true&theme=graywhite" alt="AmeerBamigbayan"/><img align="right" height='160px' src="https://github-readme-streak-stats.herokuapp.com/?user=AmeerBamigbayan&theme=dark"/></p>
 <!----<p align="center" height='130px'><img src="https://github-readme-stats.vercel.app/api/wakatime?username=Ameer_105&layout=compact&theme=solarized-dark&hide_border=true"/> </p>---->
 <br>
 <br>
  <!---<p height='130px'> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmeerBamigbayan&layout=compact&show_icons=true&bg_color=0,EFE4CA,F4DDA6,F6C03D&theme=graywhite&hide_title=true" alt="AmeerBamigbayan"/> </p>---->
 
+<h3><br><br><br><br></h3>
 <h3 align="center"><br><br><br><br>My Spotify 👀🎧</h3>
 <p align="center"> <img src="https://spotify-github-profile.vercel.app/api/view?uid=dfnf3b6pfm5cxs5ix9nfyrtep&cover_image=true&theme=default&bar_color_cover=false" alt="spotify" height="320px"/> <img src="https://spotify-recently-played-readme.vercel.app/api?user=dfnf3b6pfm5cxs5ix9nfyrtep" alt="spotify" height="320px"/></p>
 
