@@ -9,7 +9,7 @@
  <img
 src="https://img.shields.io/github/followers/AmeerBamigbayan?style=social" alt="AmeerBamigbayan" />
 <img
-src="https://img.shields.io/twitter/follow/am33r_105?label=Follow%20me&style=social" alt="am33r_105" /> </p>
+src="https://twitter.com/intent/follow?screen_name=am33r_105" alt="Follow me" /> </p>
        
  
 ## I'm a Front-End Developer, UI/UX Designer, and a Graphic Artist.  
