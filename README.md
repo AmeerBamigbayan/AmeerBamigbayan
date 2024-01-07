@@ -24,7 +24,7 @@ src="https://img.shields.io/twitter/follow/am33r_105?label=Follow%20me&style=soc
 ### Connect with me:  
 
 [<img align="left" alt="ameerbamigbayan.com.ng" width="35px" src="https://cdn-icons-png.flaticon.com/512/841/841364.png" />][website]
-[<img align="left" alt="@am33r_105 | Twitter" width="35px" src="https://img.icons8.com/color/344/twitter--v1.png" />][twitter]
+[<img align="left" alt="@am33r__105 | Twitter" width="35px" src="https://img.icons8.com/color/344/twitter--v1.png" />][twitter]
 [<img align="left" alt="ameerbamigbyan | LinkedIn" width="35px" src="https://img.icons8.com/color/344/linkedin-circled--v1.png" />][linkedin]
 [<img align="left" alt="ameerbamigbyan | facebook" width="35px" src="https://img.icons8.com/fluency/344/facebook-new.png"  />][facebook]
 [<img align="left" alt="ameerbamigbyan | dribble" width="35px" src="https://img.icons8.com/fluency/344/dribbble.png" />][dribbble]
@@ -53,7 +53,7 @@ src="https://img.shields.io/twitter/follow/am33r_105?label=Follow%20me&style=soc
 
 
 [website]: https://ameerbamigbayan.com.ng/
-[twitter]: https://www.twitter.com/am33r_105/ 
+[twitter]: https://www.twitter.com/am33r__105/ 
 [linkedin]: https://www.linkedin.com/in/ameerbamigbayan
 [dribbble]: https://dribbble.com/AmeerBamigbayan
 [fiverr]: https://www.fiverr.com/ameerdamilola?public_mode=true
