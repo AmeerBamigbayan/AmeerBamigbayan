@@ -17,9 +17,8 @@ src="https://img.shields.io/twitter/follow/am33r__105?label=Follow%20me&style=so
 - 🔭 You can check out my website [here](https://ameerbamigbayan.com.ng/)   
 - 👨🏾‍💻 See a few of my projects [here](https://www.linkedin.com/in/ameerbamigbayan)  
 - 🌱 I’m currently learning everything 🤣 
-- 👯 I’m looking to collaborate with other content creators
+- 👯 I’m looking to collaborate with other Devs
 - ⚡ Fun fact: I love to Dance 🕺
-- 🌐 I’m a Nigerian 🇳🇬   
   
 ### Connect with me:  
 
